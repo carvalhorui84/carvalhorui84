@@ -5,7 +5,7 @@
 - 👀 I’m interested in football ⚽ and coding 👨‍💻
 - 📫 Reach out and connect with me on <a href="https://www.linkedin.com/in/carvalho-rui/" target="_blank">LinkedIn!</a>
 
-<a href="https://github.com/carvalhorui84">
+<a href="https://github.com/carvalhorui84" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=carvalhorui84&count_private=true&show_icons=true&hide=stars" />
 </a>
 

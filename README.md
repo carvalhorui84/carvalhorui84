@@ -2,9 +2,7 @@
 
 ## **I'm a Software Engineer.**
 
-- 👀 I’m interested in soccer ⚽ and coding 👨‍💻
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in football ⚽ and coding 👨‍💻
 - 📫 Reach out and connect with me on <a href="https://www.linkedin.com/in/carvalho-rui/" target="_blank">LinkedIn!</a>
 
 <a href="https://github.com/carvalhorui84">
